@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhubala03
+- 👋 Hi, I’m @Madhubala
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
