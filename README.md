@@ -23,7 +23,7 @@
 
 - 💬 Ask me about Sql, Python & Machine Learning
 
-- ⚡ Fun fact: **Football** is my stress relief 
+- ⚡ Fun fact: **Music** is my stress relief 
 
 - 🧡 I believe in **Open Source**
 
